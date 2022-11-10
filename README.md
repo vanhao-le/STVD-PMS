@@ -19,7 +19,10 @@ Sepcifically, given a list of the xml files, the collection.csv file will be gen
 - Ouput: The list of TV programs that provided for each day based on the name of the XML file.
 
 For example: 
+
 Input: The file 2022-01-01_100000.xml
+
 Ouput: List of TV programs which its starts FROM at 06:00:00 01-01-2022 TO at 02:00:00 02-01-2022
+
 Notes: Using SHA-1 hash function for robustness of TV titles.
 
